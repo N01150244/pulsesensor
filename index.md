@@ -9,6 +9,7 @@ By this week we had to have ordered our parts needed for this project. All the p
 
 ## Proof of purchase for Heartbeat Sensor and 7-segment Display:
 
+
 # Week 3
 By this week we needed to hand in our Budget Report in exchange to get our GANTT chart back
 <https://github.com/N01150244/pulsesensor/blob/master/BudgetKarandeepSingh.xlsx>
