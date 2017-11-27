@@ -8,7 +8,7 @@ By this week I updated my progress report that states all the things we have gon
 By this week we had to have ordered our parts needed for this project. All the parts that are still on their way need to at least have their proof of purchase.
 
 ## Proof of purchase for Heartbeat Sensor:
-[[ ]]
+[[https://github.com/N01150244/pulsesensor/blob/master/proofofrchase.jpg]]
 
 # Week 4
 By this week we needed to hand in our Budget Report in exchange to get our GANTT chart back
