@@ -13,6 +13,7 @@ By this week we had to have ordered our parts needed for this project. All the p
 By this week we needed to hand in our Budget Report in exchange to get our GANTT chart back
 # Week 2
 By this week we needed to hand in our GANTT chart, and get back our proposal
+<https://github.com/N01150244/pulsesensor/blob/master/KarandeepSingh(n01150244).mpp>
 # Week 1
 In week one we did a tech quiz and decided on a project.
 Then we made a proposal <https://github.com/N01150244/pulsesensor/blob/master/ProposalContentKarandeepSinghRev02.docx>
