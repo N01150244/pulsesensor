@@ -1,9 +1,12 @@
 # Pulsesensor
 ## Pulse rate sensor for breathalyzer
 # Week 6
-By this week I updated my progress report that states all the things we have gone through from week 1 until now(which is seen below) and I also just recently completed soldering my PCB board and will go onto testing it.
+By this week I updated my progress report that states all the things we have <br>
+gone through from week 1 until now(which is seen below) and I also just recently <br>
+completed soldering my PCB board and will go onto testing it.
 
 ## PCB Soldered:
+![pcb front]() ![pcb back]()
 # Week 5
 By this week we had to have ordered our parts needed for this project. All the parts that are still on their way need to at least have their proof of purchase.
 
