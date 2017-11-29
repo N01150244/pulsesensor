@@ -6,9 +6,10 @@ gone through from week 1 until now(which is seen below) and I also just recently
 completed soldering my PCB board and will go onto testing it.
 
 ## PCB Soldered:
-![pcb front]() ![pcb back]()
+![pcb front](https://github.com/N01150244/pulsesensor/blob/master/pcb1.jpg) ![pcb back](https://github.com/N01150244/pulsesensor/blob/master/pcb2.jpg)
 # Week 5
-By this week we had to have ordered our parts needed for this project. All the parts that are still on their way need to at least have their proof of purchase.
+By this week we had to have ordered our parts needed for this project. All the parts <br>
+that are still on their way need to at least have their proof of purchase.
 
 ## Proof of purchase for Heartbeat Sensor:
 ![Image of Proof](https://github.com/N01150244/pulsesensor/blob/master/proofofrchase.jpg)
