@@ -7,11 +7,11 @@ specifications for the sensors that we will be using we have a better understand
 what we will need to be using, power, and design of our project.<br>
 Along with this I wrote my 30-second script.<br>
 -  [Placard:Breathalyzer](https://github.com/N01150244/pulsesensor/blob/master/PlacardBreathalyzer.pub) 
--  [30-second Script]()
+-  [30-second Script](https://github.com/N01150244/pulsesensor/blob/master/script.docx)
 ## Placard for Breathalyzer:
 ![playcard](https://github.com/N01150244/pulsesensor/blob/master/playcard.PNG)<br>
 ## 30-second Script
-![script]()
+![script](https://github.com/N01150244/pulsesensor/blob/master/script.PNG)
 # Week 7
 This week we had to have our PCB working and successfully booted up. Once booted it <br>
 the sensors should be plugged in and working after running a program on the Raspberry Pi.<br>
