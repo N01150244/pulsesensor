@@ -1,5 +1,11 @@
 # Pulsesensor
 ## Pulse rate sensor for breathalyzer
+
+# Week 8
+This week we had to create and upload a placard for our project. After looking at the <br>
+specifications for the sensors that we will be using we have a better understanding of <br>
+what we will need to be using, power, and design of our project.<br>
+-  [Placard:Breathalyzer]() 
 # Week 7
 This week we had to have our PCB working and successfully booted up. Once booted it <br>
 the sensors should be plugged in and working after running a program on the Raspberry Pi.<br>
