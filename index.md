@@ -10,7 +10,7 @@ Along with this I wrote my 30-second script.<br>
 -  [30-second Script](https://github.com/N01150244/pulsesensor/blob/master/script.docx)
 ## Placard for Breathalyzer:
 ![playcard](https://github.com/N01150244/pulsesensor/blob/master/playcard.PNG)<br>
-## 30-second Script
+## 30-second Script:
 ![script](https://github.com/N01150244/pulsesensor/blob/master/script.PNG)
 # Week 7
 This week we had to have our PCB working and successfully booted up. Once booted it <br>
