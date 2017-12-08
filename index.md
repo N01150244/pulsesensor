@@ -5,11 +5,12 @@
 This week we had to create and upload a placard for our project. After looking at the <br>
 specifications for the sensors that we will be using we have a better understanding of <br>
 what we will need to be using, power, and design of our project.<br>
--  [Placard:Breathalyzer](https://github.com/N01150244/pulsesensor/blob/master/PlacardBreathalyzer.pub)
+Along with this I wrote my 30-second script.<br>
+-  [Placard:Breathalyzer](https://github.com/N01150244/pulsesensor/blob/master/PlacardBreathalyzer.pub)-  [30-second Script]()
 ## Placard for Breathalyzer:
 ![playcard](https://github.com/N01150244/pulsesensor/blob/master/playcard.PNG)<br>
-Along with this I wrote my 30-second script.
--  [30-second Script]()
+## 30-second Script
+" Hey guys, I’m Karandeep Singh and my project is named the Breathalyzer. My project has a heartrate sensor to check your heart beats per minute. As you can see if I put my finger on the heartrate sensor, the raspberry pi which is hooked up to my laptop for display, is showing some successful readings. Along with this, my partner is using alcohol gas sensor to check if there is alcohol in your body. Hopefully with the completion of this project, it can reduce the cases of drinking and driving. Thanks."
 # Week 7
 This week we had to have our PCB working and successfully booted up. Once booted it <br>
 the sensors should be plugged in and working after running a program on the Raspberry Pi.<br>
