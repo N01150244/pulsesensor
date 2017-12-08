@@ -6,6 +6,8 @@ This week we had to create and upload a placard for our project. After looking a
 specifications for the sensors that we will be using we have a better understanding of <br>
 what we will need to be using, power, and design of our project.<br>
 -  [Placard:Breathalyzer](https://github.com/N01150244/pulsesensor/blob/master/PlacardBreathalyzer.pub) 
+## Placard for Breathalyzer:
+![playcard]()
 # Week 7
 This week we had to have our PCB working and successfully booted up. Once booted it <br>
 the sensors should be plugged in and working after running a program on the Raspberry Pi.<br>
