@@ -13,13 +13,19 @@ Along with this I wrote my 30-second script.<br>
 ## 30-second Script:
 ![script](https://github.com/N01150244/pulsesensor/blob/master/script.PNG)
 # Week 7
-This week we had to have our PCB working and successfully booted up. Once booted it <br>
-the sensors should be plugged in and working after running a program on the Raspberry Pi.<br>
-All my sensors were successfully working, and my LED also flashed.<br>
+This week we had to have our PCB working and successfully booted up. <br>
+There was a problem with my memory card at first with my Raspberry Pi, but<br>
+after installing the latest version of Raspbian,everything was working fine.<br>
 <br>
-There was a problem with my memory card at first with my Raspberry Pi,but after installing <br>
-the latest version of Raspbian,everything was working fine.I ran the "i2cdetect -y 1" command,<br>
-it showed the sensors being recognized.<br>
+Due to some circuit problem in my PCB board, I had to change some connections<br>
+so I took help from our prototype lab. We were provided with new python script<br>
+BME280.py to run the temperature, humidity and light sensor.<br>
+<br>
+Once booted it the sensors should be plugged in and working after running a<br> 
+program on the Raspberry Pi. All my sensors were successfully working, and my <br>
+LED also flashed.<br>
+<br>
+I ran the "i2cdetect -y 1" command, it showed the sensors being recognized.<br>
 <br>
 I ran the "i2cdetect -y 1" command, it showed the sensors being recognized.<br>
 ![Testing](https://github.com/N01150244/pulsesensor/blob/master/testing.PNG)
