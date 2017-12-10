@@ -21,14 +21,14 @@ There was a problem with my memory card at first with my Raspberry Pi,but after 
 the latest version of Raspbian,everything was working fine.I ran the "i2cdetect -y 1" command,<br>
 it showed the sensors being recognized.<br>
 <br>
-## Ran ghmain and BME280.py
+I ran the "i2cdetect -y 1" command, it showed the sensors being recognized.<br>
+![Testing](https://github.com/N01150244/pulsesensor/blob/master/testing.PNG)
+## Ran ghmain and BME280.py:
 ![senhat](https://github.com/N01150244/pulsesensor/blob/master/sensehat.jpg) ![hum](https://github.com/N01150244/pulsesensor/blob/master/humidity.jpg)
 ## PCB working with sensors detected:
 ![greenled](https://github.com/N01150244/pulsesensor/blob/master/greenled.jpg) ![redled](https://github.com/N01150244/pulsesensor/blob/master/redled.jpg)
 ![sense1](https://github.com/N01150244/pulsesensor/blob/master/sense1.jpg) ![sense2](https://github.com/N01150244/pulsesensor/blob/master/sense2.jpg)<br><br>
 
-I ran the "i2cdetect -y 1" command, it showed the sensors being recognized.<br>
-![Testing](https://github.com/N01150244/pulsesensor/blob/master/testing.PNG)
 # Week 6
 By this week I updated my progress report that states all the things we have <br>
 gone through from week 1 until now(which is seen below) and I also just recently <br>
