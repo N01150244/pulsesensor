@@ -6,8 +6,8 @@ This week we had to create and upload a placard for our project. After looking a
 specifications for the sensors that we will be using we have a better understanding of <br>
 what we will need to be using, power, and design of our project.<br>
 Along with this I wrote my 30-second script.<br>
--  [Placard:Breathalyzer](https://github.com/N01150244/pulsesensor/blob/master/PlacardBreathalyzer.pub) 
--  [30-second Script](https://github.com/N01150244/pulsesensor/blob/master/script.docx)
+-  [Placard:Breathalyzer](https://github.com/N01150244/pulsesensor/blob/master/PlacardBreathalyzer.pub) 
+-  [30-second Script](https://github.com/N01150244/pulsesensor/blob/master/script.docx)
 ## Placard for Breathalyzer:
 ![playcard](https://github.com/N01150244/pulsesensor/blob/master/playcard.PNG)<br>
 ## 30-second Script:
