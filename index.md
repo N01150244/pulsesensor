@@ -22,7 +22,7 @@ the latest version of Raspbian,everything was working fine.I ran the "i2cdetect 
 it showed the sensors being recognized.<br>
 <br>
 ## Ran ghmain and BME280.py
-![senhat]() ![hum]()
+![senhat](https://github.com/N01150244/pulsesensor/blob/master/sensehat.jpg) ![hum](https://github.com/N01150244/pulsesensor/blob/master/humidity.jpg)
 ## PCB working with sensors detected:
 ![greenled](https://github.com/N01150244/pulsesensor/blob/master/greenled.jpg) ![redled](https://github.com/N01150244/pulsesensor/blob/master/redled.jpg)
 ![sense1](https://github.com/N01150244/pulsesensor/blob/master/sense1.jpg) ![sense2](https://github.com/N01150244/pulsesensor/blob/master/sense2.jpg)<br><br>
