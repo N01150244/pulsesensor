@@ -27,7 +27,7 @@ LED also flashed.<br>
 <br>
 I ran the "i2cdetect -y 1" command, it showed the sensors being recognized.<br>
 <br>
-I ran the "i2cdetect -y 1" command, it showed the sensors being recognized.<br>
+
 ![Testing](https://github.com/N01150244/pulsesensor/blob/master/testing.PNG)
 ## Ran ghmain and BME280.py:
 ![senhat](https://github.com/N01150244/pulsesensor/blob/master/sensehat.jpg) ![hum](https://github.com/N01150244/pulsesensor/blob/master/humidity.jpg)
