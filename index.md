@@ -1,6 +1,11 @@
 # Pulsesensor
 ## Pulse rate sensor for breathalyzer
-
+# Week 9
+We created a 30 second video this week. In my video I have a 2 second introduction, <br>
+show what parts have arrived, a short video on the blink test on the PCB and Raspberry Pi<br>
+bootup. Lastly I also show the working of Heartrate sensor booting up with the pi, following <br>
+with what I plan to achieve.<br>
+-  [30-second Video](https://github.com/N01150244/pulsesensor/blob/master/Buildvideo.mp4) 
 # Week 8
 This week we had to create and upload a placard for our project. After looking at the <br>
 specifications for the sensors that we will be using we have a better understanding of <br>
