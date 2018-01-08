@@ -1,5 +1,11 @@
 # Pulsesensor
 ## Pulse rate sensor for breathalyzer
+# Week 10 
+Before this week I took help from Professor Anthony to print a 3D case for my sensor.<br>
+I wrote a Progress Rport in which I mentioned all work that is done till now with respect<br>
+to the schedule. I mentioned the things which I got to learn while making this project and<br>
+gave a synopsis about the budget.<br>
+-  [Progress Report](https://github.com/N01150244/pulsesensor/blob/master/ProgressReport.docx)
 # Week 9
 We created a 30 second video this week. In my video I have a 2 second introduction, <br>
 show what parts have arrived, a short video on the blink test on the PCB and Raspberry Pi<br>
