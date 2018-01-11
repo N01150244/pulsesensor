@@ -8,7 +8,7 @@ gave a synopsis about the budget.<br>
 -  [Progress Report](https://github.com/N01150244/pulsesensor/blob/master/ProgressReport.docx)
 The python script which I wrote for my sensor is given below. The script reads and shows <br>
 normal and abnormal heartbeats.<br>
-- [Sensor Python Script]()
+- [Sensor Python Script](https://github.com/N01150244/pulsesensor/blob/master/pulse.py)
 <br>
 # Week 9
 We created a 30 second video this week. In my video I have a 2 second introduction, <br>
