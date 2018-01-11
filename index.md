@@ -6,7 +6,6 @@ I wrote a Progress Rport in which I mentioned all work that is done till now wit
 to the schedule. I mentioned the things which I got to learn while making this project and<br>
 gave a synopsis about the budget.<br>
 -  [Progress Report](https://github.com/N01150244/pulsesensor/blob/master/ProgressReport.docx)
-<br>
 The python script which I wrote for my sensor is given below. The script reads and shows <br>
 normal and abnormal heartbeats.<br>
 - [Sensor Python Script]()
