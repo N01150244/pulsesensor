@@ -4,12 +4,10 @@
 Before this week I took help from Professor Anthony to print a 3D case for my sensor.<br>
 I wrote a Progress Rport in which I mentioned all work that is done till now with respect<br>
 to the schedule. I mentioned the things which I got to learn while making this project and<br>
-gave a synopsis about the budget.<br>
+gave a synopsis about the budget.The python script which I wrote for my sensor is given below.<br>
+The script reads and shows normal and abnormal heartbeats.<br>
 -  [Progress Report](https://github.com/N01150244/pulsesensor/blob/master/ProgressReport.docx)<br>
-The python script which I wrote for my sensor is given below. The script reads and shows <br>
-normal and abnormal heartbeats.<br>
-- [Sensor Python Script](https://github.com/N01150244/pulsesensor/blob/master/pulse.py)
-<br>
+-  [Sensor Python Script](https://github.com/N01150244/pulsesensor/blob/master/pulse.py)
 # Week 9
 We created a 30 second video this week. In my video I have a 2 second introduction, <br>
 show what parts have arrived, a short video on the blink test on the PCB and Raspberry Pi<br>
