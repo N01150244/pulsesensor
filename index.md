@@ -4,7 +4,7 @@
 In this week I have prepared a presentation on the work I have done in this semester <br>
 to complete my project. I will be presenting this presentation next week. Along with this <br>
 presentation I have to demonstrate my sensor to my classmates.<br>
--  [Final Presentation]()
+-  [Final Presentation](https://github.com/N01150244/pulsesensor/blob/master/hardwarefinalppt.pptx)
 # Week 10 
 Before this week I took help from Professor Anthony to print a 3D case for my sensor.<br>
 I wrote a Progress Rport in which I mentioned all work that is done till now with respect<br>
