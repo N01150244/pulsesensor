@@ -2,8 +2,8 @@
 ## Pulse rate sensor for breathalyzer
 # Week 12
 The last thing I did was to write a set of build instructions so that other people can <br>
-follow those to make their own projects.<br>
-- [Build Instructions]()
+follow those to make their own projects. I wrote the build instructions in README.md file<br>
+- [Build Instructions](https://github.com/N01150244/pulsesensor/blob/master/README.md)
 # Week 11
 In this week I have prepared a presentation on the work I have done in this semester <br>
 to complete my project. I will be presenting this presentation next week. Along with this <br>
