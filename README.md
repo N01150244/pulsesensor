@@ -5,7 +5,7 @@
 2. [Bill of Materials](#bill-of-materials)
 3. [Time Commitment](#time-commitment)
 4. [Mechanical Assembly](#mechanical-assembly)
-5. [PCB/Soldering](#pcb-soldering)
+5. [PCB Soldering](#pcb-soldering)
 6. [Power Up](#power-up)
 7. [Unit Testing](#unit-testing)
 8. [Production Testing](#production-testing)
@@ -66,7 +66,7 @@ Connect to the internet in whichever way is best, and download the python file I
 
 -  [Python code for sensor](https://github.com/N01150244/pulsesensor/blob/master/pulse.py)
 
-### PCB/Soldering
+### PCB Soldering
 Next thing to start working on would be the PCB. The PCB provided to me by the Humber Prototype Lab is what I used to hold majority of my project. First download the program EAGLE, and the required board and schematic file which is provided below. The schematic and board file are just a generic student file so the name will need to be changed. Lastly I went to the prototype lab and asked what else they needed for me to print my board, and they asked for these two files and the rest was done by them.
 
 -  [Schematic File](https://github.com/N01150244/pulsesensor/blob/master/HSHV4-student%20version.sch)<br>
