@@ -38,3 +38,23 @@ paid for as a part of our tuition.
 Again, these are just the parts and prices for the things we bought. Prices may
 change over time, but our total comes to around \$300.
 
+### Time Commitment
+If you work on this continuously with no other
+tasks in your way, it shouldn't take that long considering you do everything
+correctly! In this chart below, we break down how much time was taken on each
+main task of the project.
+
+| ThingS you need to do                       | Time Taken To Complete (Approx.) |
+|---------------------------------------------|----------------------------------|
+| Looking for and Purchasing Parts + Delivery | 1.5 hours + 1 week               |
+| Assembling case and setting up Raspberry Pi | 1 hour                           |
+| Editing your custom PCB                     | 30 minutes                       |
+| Soldering/Testing/Troubleshooting your PCB  | 3.5 hours                        |
+| Creating a case for your project            | 1 hour                           |
+| Testing/calibrating the sensors             | 2 hours                          |
+| Setting up the project                      | 10 minutes                       |
+
+After breaking down the parts of the project, it is pretty easy to tell that
+it's not a very time consuming project to complete. If you are very committed to
+this project then it shouldn't be very difficult to complete this in these time
+frames.
