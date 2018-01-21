@@ -69,8 +69,8 @@ Connect to the internet in whichever way is best, and download the python file I
 ### PCB/Soldering
 Next thing to start working on would be the PCB. The PCB provided to me by the Humber Prototype Lab is what I used to hold majority of my project. First download the program EAGLE, and the required board and schematic file which is provided below. The schematic and board file are just a generic student file so the name will need to be changed. Lastly I went to the prototype lab and asked what else they needed for me to print my board, and they asked for these two files and the rest was done by them.
 
--  [Schematic File]()<br>
--  [Board File]()<br>
+-  [Schematic File](https://github.com/N01150244/pulsesensor/blob/master/HSHV4-student%20version.sch)<br>
+-  [Board File](https://github.com/N01150244/pulsesensor/blob/master/HSHV4-student%20version.brd)<br>
 
 When soldering the PCB, Kelly at the Prototype Lab really helped out. If you had a question on how to test it or where to solder some things, they would help you out. Majority of the soldering was done while looking at the reference model they had at the lab, I also used the solder and soldering iron they had there so I didn't need to buy my own. Once done, you should consult to Vlad and Kelly to make sure you've done it right, they will show you how to properly test it to make sure it works. Below is just a visual of what my PCB looked like when it was completed.
 
