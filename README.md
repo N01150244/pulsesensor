@@ -12,3 +12,4 @@
 9. [Reproducible](#reproducible)
 
 ### Introduction
+This page is created to help you to create your own Hearrate sensor project.
