@@ -74,7 +74,7 @@ Next thing to start working on would be the PCB. The PCB provided to me by the H
 
 When soldering the PCB, Kelly at the Prototype Lab really helped out. If you had a question on how to test it or where to solder some things, they would help you out. Majority of the soldering was done while looking at the reference model they had at the lab, I also used the solder and soldering iron they had there so I didn't need to buy my own. Once done, you should consult to Vlad and Kelly to make sure you've done it right, they will show you how to properly test it to make sure it works. Below is just a visual of what my PCB looked like when it was completed.
 
-![PCB]()
+![PCB](https://github.com/N01150244/pulsesensor/blob/master/pcb1.jpg)
 
 ### Assembling the Project
 When the Raspberry Pi is setup, and the PCB is finished and soldered you can now set up the rest of the project. Get the Modular Sense Hat and connect it properly into the header labelled PFC-ADC on the board. Take the Heartbeat sensor, connect positive to VCC in the header labelled DS-RTC on the board, negative to ground, and signal ping to the AIN2 pin on the Modular Sense Hat. Lastly, using the 24-pin GPIO header on the PCB board, connect it to the Raspberry Pi firmly so it's set (MAKE SURE THE PI IS OFF). Now we can move to the power up.
