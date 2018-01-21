@@ -17,3 +17,24 @@ This page is created to help you to create your own Hearrate sensor project. In 
 Using a gas and a heartbeat sensor, users can plug those into a PCB and use a raspberry pi to display the readings on either a computer or phone when the app is ready and completed.
 
 ![Plan]()
+
+### Bill of Materials
+
+Given below are parts and material required for this project. Most of these
+parts are pretty cheap which makes this project not that expensive, but that is
+because I already had a raspberry pi, electronic parts kit, and the PCB kit was
+paid for as a part of our tuition. 
+
+| **Item**                   | **Quantity** | **Cost**  | **Supplier & Part Number**        |
+|----------------------------|--------------|-----------|-----------------------------------|
+| Raspberry Pi 3 Starter Kit | 1            | \$79.99  | (Canakit) Amazon - B01CCF9BYG     |
+| XD-58C Sensor              | 1            | \$18.99   | (JutaTech) Amazon.ca - B01AUVMFIS |
+| Electronics Parts Kit      | 1            | \$119.99  | Humber - SKU \#163                |
+| Jumper Wires (120 pack)    | 1            | \$19.99   | (Elegoo) Amazon.ca - B01EV70C78   |
+| Solder Kit                 | 1            | \~\$40.00 | Humber                            |
+| Soldering Iron             | 1            | \~\$20.00 | Humber                            |
+| Power Cables/Connectors    | 1            | included  | Humber/Amazon                     |
+
+Again, these are just the parts and prices for the things we bought. Prices may
+change over time, but our total comes to around \$300.
+
