@@ -16,7 +16,7 @@ This page is created to help you to create your own Hearrate sensor project. In 
 <br>
 Using a gas and a heartbeat sensor, users can plug those into a PCB and use a raspberry pi to display the readings on either a computer or phone when the app is ready and completed.
 
-![Plan]()
+![Plan](https://github.com/N01150244/pulsesensor/blob/master/plan.PNG)
 
 ### Bill of Materials
 Given below are parts and material required for this project. Most of these
