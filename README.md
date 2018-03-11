@@ -12,7 +12,7 @@
 9. [Reproducible](#reproducible)
 
 ### Introduction
-This page is created to help you to create your own Hearrate sensor project. In orderto fix the problem of drinking and driving, my partners (Maheshwerie Samaroo), (Mohita Prabhakar) and I (Karandeep Singh) chose Heart Rate Educational Starter Kit, Alcohol Gas sensor and Pulse sensor respectively.Instead of people thinking they're okay to drive with alcohol in their body, they can use our projectto see if there is a large amount of alcohol in their body along with seeing their heart rate. It's a cheap alternative, and isn't too hard to make yourself.
+This page is created to help you to create your own Hearrate sensor project. In order to fix the problem of drinking and driving, we (Maheshwerie Samaroo, Mohita Prabhakar and Karandeep Singh) chose the Heart Rate Educational Starter Kit, Alcohol Gas sensor and Pulse sensor respectively. Instead of people thinking they're okay to drive with alcohol in their body, they can use our project to see if there is a large amount of alcohol in their body along with seeing their heart rate. It's a cheap alternative, and isn't too hard to make yourself.
 <br>
 Using a gas and two heartbeat sensors, users can plug those into a PCB and use a raspberry pi to display the readings on either a computer or phone on our mobile application.
 
