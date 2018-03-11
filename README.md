@@ -24,18 +24,20 @@ parts are pretty cheap which makes this project not too expensive, but that is
 because we already had our respective raspberry pis, electronic parts kit, and  PCB kits which were
 paid for as a part of our tuition. 
 
-| **Item**                   | **Quantity** | **Cost**  | **Supplier & Part Number**        |
-|----------------------------|--------------|-----------|-----------------------------------|
-| Raspberry Pi 3 Starter Kit | 1            | \$79.99   | (Canakit) Amazon - B01CCF9BYG     |
-| XD-58C Sensor              | 1            | \$18.99   | (JutaTech) Amazon.ca - B01AUVMFIS |
-| Electronics Parts Kit      | 1            | \$119.99  | Humber - SKU \#163                |
-| Jumper Wires (120 pack)    | 1            | \$19.99   | (Elegoo) Amazon.ca - B01EV70C78   |
-| Solder Kit                 | 1            | \~\$40.00 | Humber                            |
-| Soldering Iron             | 1            | \~\$20.00 | Humber                            |
-| Power Cables/Connectors    | 1            | included  | Humber/Amazon                     |
+| **Item**                               | **Quantity** | **Cost**  | **Supplier & Part Number**                  |
+|--------------------------------------- |--------------|-----------|---------------------------------------------|
+| Raspberry Pi 3 Starter Kit             | 1            | \$79.99   | (Canakit) Amazon - B01CCF9BYG               |
+| XD-58C Sensor                          | 1            | \$18.99   | (JutaTech) Amazon.ca - B01AUVMFIS           |
+| MQ3 Alcohol/Gas Sensor                 | 1            | \$8.80    | (Creatron) creatroninc.com - SPEDE-000030.  |
+| Heart Rate Educational Starter Pack    | 1            | \$65.00   | (AdaFruit) adafruit.com - 1077              |
+| Electronics Parts Kit                  | 1            | \$119.99  | Humber - SKU \#163                          |
+| Jumper Wires (120 pack)                | 1            | \$19.99   | (Elegoo) Amazon.ca - B01EV70C78             |
+| Solder Kit                             | 1            | \~\$40.00 | Humber                                      |
+| Soldering Iron                         | 1            | \~\$20.00 | Humber                                      |
+| Power Cables/Connectors                | 1            | included  | Humber/Amazon                               |
 
 Again, these are just the parts and prices for the things we bought. Prices may
-change over time, but our total comes to around \$300.
+change over time, but our total comes to around \$360.
 
 ### Time Commitment
 If you work on this continuously with no other
