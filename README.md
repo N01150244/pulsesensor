@@ -66,7 +66,7 @@ To keep things simple, for mechanical assembly I'm going to break up the parts i
 Once you receive your Raspberry Pi, you can start by connecting a keyboard and mouse to the USB ports. Next go ahead and push in the SD card included, and use the HDMI connector and connect it to a monitor so you will be able to see the display. Lastly, plug in the power adapter to turn on the raspberry pi. Things will flash on the screen and text will flood a black terminal, but eventually it will stop, allowing for input. The most important thing to do is run the command "sudo apt-get update" which is really important because it will give the newest and most stable updates for your raspberry pi. 
 Connect to the internet in whichever way is best, and download the python file I created and put it in an easy place to find (found below). Locate it in a terminal and compile it using "python pulse.py".
 
--  [Python code for sensor](https://github.com/N01150244/pulsesensor/blob/master/pulse.py)
+-  [Python code for sensors](https://github.com/N01150244/pulsesensor/blob/master/Breathalyzer.py)
 
 ### PCB Soldering
 Next thing to start working on would be the PCB. The PCB provided to me by the Humber Prototype Lab is what I used to hold majority of my project. First download the program EAGLE, and the required board and schematic file which is provided below. The schematic and board file are just a generic student file so the name will need to be changed. Lastly I went to the prototype lab and asked what else they needed for me to print my board, and they asked for these two files and the rest was done by them.
@@ -74,7 +74,7 @@ Next thing to start working on would be the PCB. The PCB provided to me by the H
 -  [Schematic File](https://github.com/N01150244/pulsesensor/blob/master/HSHV4-student%20version.sch)<br>
 -  [Board File](https://github.com/N01150244/pulsesensor/blob/master/HSHV4-student%20version.brd)<br>
 
-When soldering the PCB, Kelly at the Prototype Lab really helped out. If you had a question on how to test it or where to solder some things, they would help you out. Majority of the soldering was done while looking at the reference model they had at the lab, I also used the solder and soldering iron they had there so I didn't need to buy my own. Once done, you should consult to Vlad and Kelly to make sure you've done it right, they will show you how to properly test it to make sure it works. Below is just a visual of what my PCB looked like when it was completed.
+When soldering the PCB, Kelly at the Prototype Lab really helped out. If you had a question on how to test it or where to solder some things, they would help you out. Majority of the soldering was done while looking at the reference model they had at the lab, we also used the solder and soldering iron they had there so we didn't need to buy our own. Once done, you should consult with Vlad and Kelly to make sure you've done it right, they will show you how to properly test it to make sure it works. Below is just a visual of what a PCB looked like when it was completed.
 
 ![PCB](https://github.com/N01150244/pulsesensor/blob/master/pcb1.jpg)
 
